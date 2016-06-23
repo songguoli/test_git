@@ -1,5 +1,5 @@
 <?php
-class HelloWord{
+class HiWord{
 	public $a = '';
 	public $b = '';
 }
